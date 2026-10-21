@@ -2,6 +2,14 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.26.0
+**Nyt**
+- **Volley og hovedstød i første omgang:** er bolden i luften tæt på din spiller, kan du skyde den med det samme (tryk SKYD lige før eller når bolden kommer). Står man inde i/nær feltet, går volleyen eller hovedstødet overvejende mod mål, og stikretningen drejer skuddet lidt til siden. Peger man bagud, bliver det en aflevering/clearing den vej. Uden for feltet følger bolden mere den retning, man peger i.
+- Hårdere volleys kan gå over mål, og hovedstød er lavere og mere præcise.
+- En lille gul tekst (VOLLEY eller HOVED) vises over din spiller, når en bold i luften kan nås.
+**Ændret**
+- Volleys og hovedstød får fart fra den indkommende bold (f.eks. ved målmandens udspark eller en dybde-aflevering).
+
 ## Sensible 0.25.1
 **Ændret**
 - Når bolden ryger forbi eller over målet, ses den nu ligge/flyve ud over baglinjen i et øjeblik, før spillet stoppes (før blev det stoppet med det samme).
