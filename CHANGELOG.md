@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.22.2
+**Nyt**
+- **Nyt net med dybde:** bagnet, sidenet og tag med maskemønster, bagstolper og skygge, så målet ser 3D ud i begge ender. Nettet bølger stadig efter et mål.
+**Ændret**
+- Venskabskamp: Player1 blinker, mens man vælger liga og hold. Derefter sendes man tilbage til ligavalget, og Com blinker, mens man vælger liga og hold til modstanderen. De to hold kan komme fra forskellige ligaer.
+
 ## Sensible 0.22.1
 **Ændret**
 - Venskabskamp: man vælger først liga og derefter hold. TILBAGE i holdvalget går først et trin tilbage (vælg eget hold igen) og derefter til ligavalget.
