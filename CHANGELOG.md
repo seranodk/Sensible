@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.21.0
+**Nyt**
+- **Pause i kampen:** P eller Escape (computer) eller II-knappen (mobil). Menuen har Fortsæt, Genstart kamp og Til hovedmenu. Kampen pauser også automatisk, hvis man skifter fane.
+**Rettet**
+- På en rigtig side (f.eks. GitHub Pages) skulle man scrolle til højre i menuen på mobil. Menuen passer nu til skærmens bredde og højde, også i landskab på små telefoner.
+
 ## Sensible 0.20.2
 **Rettet**
 - Når modstanderen tager kickoff eller et andet genstart, venter han ikke længere over et sekund, før han spiller bolden. Den første pasning kommer nu efter ca. et halvt sekund.
