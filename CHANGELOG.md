@@ -2,6 +2,15 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.22.1
+**Ændret**
+- Venskabskamp: man vælger først liga og derefter hold. TILBAGE i holdvalget går først et trin tilbage (vælg eget hold igen) og derefter til ligavalget.
+- Skruen på bolden er svagere, bevarer sin retning (kan kun justeres lidt, ikke vende til den modsatte side) og klinger af, når bolden er langsom, så den ikke drejer rundt til sidst. Boldens fart påvirkes ikke af skruen.
+**Rettet**
+- Nettet dækker nu hele målets bredde (der var et hul i højre side).
+**Nyt**
+- Når bolden rammer overligger eller stolpe, bliver den kortvarigt større med større skygge, og stolpen/overliggeren blinker med en lille ring.
+
 ## Sensible 0.22.0
 **Nyt**
 - **Ny boldfysik:** hårde skud flyver højere, og skyder man alt for hårdt, kan bolden gå over mål. Bolden mister hurtigt fart, når den rammer banen (også efter målmandens udspark og hovedstød), og ligger hurtigere stille.
