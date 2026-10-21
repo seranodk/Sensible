@@ -2,13 +2,13 @@
 
 Et top-down fodboldspil i browseren, inspireret af Sensible Soccer / Sensible World of Soccer. Det er én HTML-fil uden afhængigheder og virker på computer og mobil (landskab anbefales).
 
-**Aktuel version: Sensible 0.21.0.** Ændringer pr. version står i [CHANGELOG.md](CHANGELOG.md).
+**Aktuel version: Sensible 0.21.1.** Ændringer pr. version står i [CHANGELOG.md](CHANGELOG.md).
 
 ## Spillet
 
 - **Hurtig kamp:** tilfældige hold, start med ét tryk.
 - **Venskabskamp:** vælg to hold på tværs af alle ligaer.
-- **To spillere:** to mennesker på samme tastatur.
+- **P1 vs P2:** to mennesker på samme tastatur.
 - **Ligaer 2026/27:** Premier League (20), La Liga (20), Bundesliga (18), Superligaen (12) og Champions League-holdene.
 - **Rigtige spillere:** 90 af 92 hold har navne og trøjenumre på de 11 startspillere. Spillerens nummer og navn står øverst til højre, når han har bolden. Se afsnittet *Data* nedenfor.
 - **Kampforløb:** 2 halvlegsure à 45 minutter, målscorer og minut ved hvert mål, og en rapport i halvleg og ved fuld tid med holdene, resultatet og alle målscorere. Spillerne løber ud af banen.
@@ -34,7 +34,7 @@ Et top-down fodboldspil i browseren, inspireret af Sensible Soccer / Sensible Wo
 
 ### To spillere på samme tastatur
 
-Vælg "2 spillere" i hovedmenuen.
+Vælg "P1 vs P2" i hovedmenuen.
 
 | | Spiller 1 (hjemmehold) | Spiller 2 |
 |---|---|---|

@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.21.1
+**Ændret**
+- Hovedmenuen starter nu med spil: Hurtig kamp, Venskabskamp, Turnering og P1 vs P2 (før "2 spillere"). Indstillinger og Styring ligger nederst i en mindre række.
+
 ## Sensible 0.21.0
 **Nyt**
 - **Pause i kampen:** P eller Escape (computer) eller II-knappen (mobil). Menuen har Fortsæt, Genstart kamp og Til hovedmenu. Kampen pauser også automatisk, hvis man skifter fane.
