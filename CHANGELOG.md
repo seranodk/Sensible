@@ -2,6 +2,15 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.25.0
+**Nyt**
+- **Stadionstørrelse efter kapacitet:** tilskuerrækkernes dybde skaleres efter de rigtige tal (fra Vitality Stadium med ca. 11.300 pladser til Old Trafford med ca. 74.300). Små stadions har tydeligt mindre tribuner.
+- **Mere realistiske tage pr. tribune:** hver tribune har sin egen tagdækning og form, f.eks. fuld cantilever-tag på Old Trafford og Emirates, kortere og trappede tage på Selhurst Park, Craven Cottage og Portman Road.
+- **Udeholdets fans** sidder i en afgrænset blok på stadionets rigtige sted (f.eks. i hjørnet på Emirates, i et hjørne på Anfield og bag mål i Newcastle), og resten af stadionet er hjemmefans.
+- **Sponsorbander** med Premier Leagues partnere (Barclays, EA SPORTS, Budweiser, Cadbury, Hublot, Sky Sports, TNT Sports, Nike, Carabao, Premier League) og hjemmeklubbens hovedsponsor på de klubber, hvor den er kendt.
+**Ændret**
+- Kameraet følger bolden mere glidende, så billedet ikke hakker ved mange boldskift.
+
 ## Sensible 0.24.0
 **Nyt**
 - **Egne stadions til alle 20 Premier League-hold** (hjemmeholdet bestemmer stadion): Emirates, Villa Park, Vitality, Gtech, Amex, Stamford Bridge, Coventry Building Society Arena, Selhurst Park, Hill Dickinson Stadium, Craven Cottage, MKM, Portman Road, Elland Road, Anfield, Etihad, Old Trafford, St James' Park (sort/hvide striber), City Ground, Stadium of Light og Tottenham Hotspur Stadium. Sæderne har klubbens farver, banderne bruger hjemmeholdets farver, og der er et tag med eget omrids (lige, afrundet, trappet, skrå eller buet), hvor tilskuerne stadig kan ses igennem. Udeholdets fans sidder i udeholdets farver. Stadionets navn vises kort ved kampstart.
