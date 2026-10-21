@@ -2,6 +2,14 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.23.0
+**Nyt**
+- **10 forskellige stadions** (valgt tilfældigt pr. kamp), inspireret af Premier League, Bundesliga og La Liga: Anfield, Allianz Arena, Westfalenstadion, Olympiastadion (løbebane), Bernabéu, Camp Nou, Old Trafford, Mestalla (tern i græsset), Etihad og Tottenham Stadium. De varierer i tilskuerfarver, bander, plæneklip og skygge.
+- **Udskiftningsbokse** på venstre side ved midterlinjen med et tilskuer-tag, siddepladser, indskiftere i holdets farver og en teknisk zone for hvert hold.
+- **P1 vs P2** har samme holdvalg som venskabskamp (liga først, Player1 og Player2 blinker).
+**Ændret**
+- Modstanderen scorer på ca. 25 % flere chancer (målmandens redning på målstregen er reduceret).
+
 ## Sensible 0.22.2
 **Nyt**
 - **Nyt net med dybde:** bagnet, sidenet og tag med maskemønster, bagstolper og skygge, så målet ser 3D ud i begge ender. Nettet bølger stadig efter et mål.
