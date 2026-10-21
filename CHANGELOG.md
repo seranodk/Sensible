@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.25.1
+**Ændret**
+- Når bolden ryger forbi eller over målet, ses den nu ligge/flyve ud over baglinjen i et øjeblik, før spillet stoppes (før blev det stoppet med det samme).
+- Målspark tages fra hjørnet af det lille felt på den side, hvor bolden gik ud.
+- Kameraet bevæger sig mere glidende, når bolden rammer overligger eller stolpe, og har en øvre grænse for hastighed, så det ikke hopper.
+
 ## Sensible 0.25.0
 **Nyt**
 - **Stadionstørrelse efter kapacitet:** tilskuerrækkernes dybde skaleres efter de rigtige tal (fra Vitality Stadium med ca. 11.300 pladser til Old Trafford med ca. 74.300). Små stadions har tydeligt mindre tribuner.
