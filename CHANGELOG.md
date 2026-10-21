@@ -2,6 +2,15 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.22.0
+**Nyt**
+- **Ny boldfysik:** hårde skud flyver højere, og skyder man alt for hårdt, kan bolden gå over mål. Bolden mister hurtigt fart, når den rammer banen (også efter målmandens udspark og hovedstød), og ligger hurtigere stille.
+- **Målspark** tages fra det lille felts kant. Målmanden er låst, til bolden er sparket ud, og ingen andre spillere kan komme ind i feltet før da.
+- **Holdvalg i nyt design:** først vælger man sit eget hold (Player1), derefter modstanderen (Com eller Player2). Holdene vises i hjemmebanetrøjens farver, og baggrunden skifter farve efter det valgte hold.
+**Ændret**
+- Målet er 25 % større (bredde og højde).
+- Målmanden er bedre til skud, der kommer lige på ham.
+
 ## Sensible 0.21.1
 **Ændret**
 - Hovedmenuen starter nu med spil: Hurtig kamp, Venskabskamp, Turnering og P1 vs P2 (før "2 spillere"). Indstillinger og Styring ligger nederst i en mindre række.
