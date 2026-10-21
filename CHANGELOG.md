@@ -2,6 +2,13 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.24.0
+**Nyt**
+- **Egne stadions til alle 20 Premier League-hold** (hjemmeholdet bestemmer stadion): Emirates, Villa Park, Vitality, Gtech, Amex, Stamford Bridge, Coventry Building Society Arena, Selhurst Park, Hill Dickinson Stadium, Craven Cottage, MKM, Portman Road, Elland Road, Anfield, Etihad, Old Trafford, St James' Park (sort/hvide striber), City Ground, Stadium of Light og Tottenham Hotspur Stadium. Sæderne har klubbens farver, banderne bruger hjemmeholdets farver, og der er et tag med eget omrids (lige, afrundet, trappet, skrå eller buet), hvor tilskuerne stadig kan ses igennem. Udeholdets fans sidder i udeholdets farver. Stadionets navn vises kort ved kampstart.
+- De 10 generelle stadions har fået tag med omrids.
+**Ændret**
+- Når målmanden afviser bolden, triller/flyver den kun ca. 80-180 enheder fra mållinjen, altså oftest inde i feltet og nogle gange lige udenfor. Gælder Player1, Player2 og Com.
+
 ## Sensible 0.23.0
 **Nyt**
 - **10 forskellige stadions** (valgt tilfældigt pr. kamp), inspireret af Premier League, Bundesliga og La Liga: Anfield, Allianz Arena, Westfalenstadion, Olympiastadion (løbebane), Bernabéu, Camp Nou, Old Trafford, Mestalla (tern i græsset), Etihad og Tottenham Stadium. De varierer i tilskuerfarver, bander, plæneklip og skygge.
