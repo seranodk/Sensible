@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.33.0
+**Ændret**
+- **Bolden uden for banen:** lave bolde preller af reklamebanderne (bag mål og langs siderne), og høje bolde flyver over banderne og rammer tribunen.
+- **Målspark:** målmanden står bag bolden, løber til og sparker, i stedet for at tage bolden op i hænderne.
+- **Alle Premier League-stadions** er nu bygget som skåle med afrundede hjørner, tag, tribunebånd, gange og klubbens navn i sæderne. Hvert stadion har sin egen rundingsgrad (fx er Selhurst Park og Craven Cottage mere kantede, Emirates og Tottenham helt runde), tagdækning efter stadion og kapacitet-baserede ringe.
+
 ## Sensible 0.32.0
 **Ændret**
 - **Emirates Stadium (Arsenal)** er bygget som en rund skål: afrundede hjørner, sammenhængende rundt tag med ribber og lyse kanter (lamper om natten), tre ringe med concourse-bånd, gange og store "ARSENAL"-bogstaver i sæderne. Samme metode kan bruges på flere stadions.
