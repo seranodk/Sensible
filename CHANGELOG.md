@@ -2,6 +2,15 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.27.0
+**Ændret**
+- **Målene er 10 % højere og bredere** (net, stolper og overligger følger med).
+- **Målmanden** redder skud midt i målet oftere (større rækkevidde og færre fejl på skud lige på ham).
+- **Færre skud over mål:** skud med fuld kraft stiger mindre, så de går over målet sjældnere.
+- **Hovedstød** rammer målet oftere: de er nu rettet nedad og kan reddes af målmanden.
+- **Volleys/førstegangsskud:** spilleren kan nå bolden fra lidt længere væk, skuddet er hårdere og mere præcist.
+- **Målmandshandsker** er større og tydeligere (hvid manchet og fingerstreg).
+
 ## Sensible 0.26.1
 **Ændret**
 - Målmændene er svækket lidt (færre sikre fangster, flere fejl på skud lige på dem, og færre redninger på målstregen), så der kommer flere mål i åbent spil.
