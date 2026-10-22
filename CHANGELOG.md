@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.31.0
+**Ændret**
+- Indstillingerne "Skud" og "Hastighed" er fjernet (skud er Power, hastighed Normal).
+- **Nye tilskuere:** små figurer med hoved, hår, hudtoner, trøjer, halstørklæder, hævede arme og enkelte tomme sæder.
+- **Tribuner:** gange mellem sektionerne, concourse-bånd mellem ringene på store stadions (antal efter kapacitet) og lys i forkanten af taget om natten.
+
 ## Sensible 0.30.0
 **Nyt**
 - **Gameplay: OpenSWOS** kan vælges i Indstillinger (sammen med Boldfysik og Original). Slår OpenSWOS-boldfysik til automatisk.
