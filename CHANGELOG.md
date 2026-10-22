@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.34.0
+**Ændret**
+- **Målmandens udspark** lander nu omkring midterlinjen (+/- 10 %) hver gang, både for computer og spiller.
+- **Premier League-stadions har hver deres form** i stedet for samme skål: forskellig dybde på hver side, åbne eller fyldte eller runde hjørner, forskelligt antal ringe, tagdækning pr. side og tekster som "THE KOP", "HOLTE END" og "THEATRE OF DREAMS". Fx har Selhurst Park, Craven Cottage, Portman Road og City Ground åbne hjørner og ujævne tribuner, Old Trafford er stor og fyldt, Anfield har en stor Kop bag målet, og Emirates, Tottenham og Etihad er runde.
+- **Kampstart:** kameraet starter ude over hele stadion og zoomer ind på banen (tryk for at springe over).
+
 ## Sensible 0.33.0
 **Ændret**
 - **Bolden uden for banen:** lave bolde preller af reklamebanderne (bag mål og langs siderne), og høje bolde flyver over banderne og rammer tribunen.
