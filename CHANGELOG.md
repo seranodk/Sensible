@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.34.3
+**Ændret (kun Gameplay: OpenSWOS)**
+- **Skru på almindelige skud:** skruen blev før nulstillet, når bolden første gang ramte jorden efter få billeder, så den kun virkede på høje bolde. Nu kan du skrue også lave skud i godt et sekund efter sparket. Styrken er afstemt (ca. 120-270 px sidelæns på et langt skud, afhængigt af hvor tidligt du holder retningen).
+- "SKRU"-teksten ved bolden er fjernet.
+- PASS-knappen på mobil viser "hold: HØJT", fordi et langt tryk giver højt skud.
+
 ## Sensible 0.34.2
 **Ændret (kun Gameplay: OpenSWOS)**
 - **Kraftigere skru:** ca. 3,5 gange så meget som i den originale gameplay. Et "◀ SKRU ▶"-tip vises ved bolden lige efter dit skud.
