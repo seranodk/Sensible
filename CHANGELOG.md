@@ -2,6 +2,15 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.30.0
+**Nyt**
+- **Gameplay: OpenSWOS** kan vælges i Indstillinger (sammen med Boldfysik og Original). Slår OpenSWOS-boldfysik til automatisk.
+  - Løb i 8 retninger med konstant fart og hurtige vendinger. Fart afhænger af spillerens færdighed (0-7), og bolden bremser løberen til 87,5 %.
+  - Skud uden styrkemåler: hold SKYD i ca. 4 ticks, så skydes automatisk. Slip tidligere for aflevering. Træk stikken bagud for højt skud. Præcisionen afhænger af spillerens færdighed.
+  - Ingen lob-aflevering (findes ikke i originalen).
+  - Målmanden holder bolden i ca. 2 sekunder og sparker langt, har mindre rækkevidde og får ikke ekstra "held" fra sværhedsgraden.
+- OpenSWOS-boldfysikken har fået kraftigere friktion, så rulleafstande ligner originalens.
+
 ## Sensible 0.29.0
 **Ændret**
 - **Lob over forsvaret** er nu et langt tryk på AFLEVER (ikke SKYD). Kort tryk giver stadig almindelig aflevering.
