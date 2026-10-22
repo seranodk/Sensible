@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.34.2
+**Ændret (kun Gameplay: OpenSWOS)**
+- **Kraftigere skru:** ca. 3,5 gange så meget som i den originale gameplay. Et "◀ SKRU ▶"-tip vises ved bolden lige efter dit skud.
+- **Højt skud på mobil:** hold PASS-knappen nede et øjeblik for et højt skud. (Man kan stadig trække retningen bagud lige før skuddet på tastatur/controller.)
+- Hjælpeteksten under STYRING forklarer de nye greb.
+
 ## Sensible 0.34.1
 **Ændret**
 - **Gameplay: OpenSWOS** har nu rigtig aftertouch: bolden kan skrues efter sparket ved at holde en retning, også på lave skud (før virkede det kun på høje bolde). Den originale gameplay er uændret.
