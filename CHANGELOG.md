@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.32.0
+**Ændret**
+- **Emirates Stadium (Arsenal)** er bygget som en rund skål: afrundede hjørner, sammenhængende rundt tag med ribber og lyse kanter (lamper om natten), tre ringe med concourse-bånd, gange og store "ARSENAL"-bogstaver i sæderne. Samme metode kan bruges på flere stadions.
+
 ## Sensible 0.31.0
 **Ændret**
 - Indstillingerne "Skud" og "Hastighed" er fjernet (skud er Power, hastighed Normal).
