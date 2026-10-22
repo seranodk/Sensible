@@ -2,6 +2,15 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.28.0
+**Nyt**
+- **Lobbet aflevering over forsvaret:** hold SKYD nede og tryk AFLEVER. Bolden letter og lander ved medspilleren. Computeren lober også selv, når en modstander står i vejen.
+- **Dommer** i neongul, cyanblå eller sort trøje (vælges efter holdfarverne), løber med spillet og går til stedet ved frispark og straffespark.
+- **Frispark:** glidende tacklinger kan blive fejl (oftere bagfra). Mur på 3-4 spillere, modstandere skal holde afstand, banneret FRISPARK vises.
+- **Straffespark:** fejl i egen straffesparksfelt giver straffe. Alle står uden for feltet, og målmanden venter på stregen. Tryk kort eller hold SKYD for styrke.
+- **Indkast:** banner, og modstandere skal holde afstand til indkasteren.
+- Træthed er udsat til senere.
+
 ## Sensible 0.27.1
 **Ændret**
 - Skud kan flyve lidt højere (mellem de to forrige versioner), og målmandshandskerne er lidt mindre.
