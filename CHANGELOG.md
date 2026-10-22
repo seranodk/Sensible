@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.34.1
+**Ændret**
+- **Gameplay: OpenSWOS** har nu rigtig aftertouch: bolden kan skrues efter sparket ved at holde en retning, også på lave skud (før virkede det kun på høje bolde). Den originale gameplay er uændret.
+
 ## Sensible 0.34.0
 **Ændret**
 - **Målmandens udspark** lander nu omkring midterlinjen (+/- 10 %) hver gang, både for computer og spiller.
