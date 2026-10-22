@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.26.1
+**Ændret**
+- Målmændene er svækket lidt (færre sikre fangster, flere fejl på skud lige på dem, og færre redninger på målstregen), så der kommer flere mål i åbent spil.
+
 ## Sensible 0.26.0
 **Nyt**
 - **Volley og hovedstød i første omgang:** er bolden i luften tæt på din spiller, kan du skyde den med det samme (tryk SKYD lige før eller når bolden kommer). Står man inde i/nær feltet, går volleyen eller hovedstødet overvejende mod mål, og stikretningen drejer skuddet lidt til siden. Peger man bagud, bliver det en aflevering/clearing den vej. Uden for feltet følger bolden mere den retning, man peger i.
