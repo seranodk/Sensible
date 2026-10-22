@@ -2,6 +2,15 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.29.0
+**Ændret**
+- **Lob over forsvaret** er nu et langt tryk på AFLEVER (ikke SKYD). Kort tryk giver stadig almindelig aflevering.
+- **Dommeren** holder sig mest i midterste tredjedel af banen og kommer ikke ind i feltet ved målspark.
+- **Hjørnespark:** færre spillere klumper i feltet. Nogle står i kanten af feltet, og resten ved midterlinjen.
+- Indkast viser ikke længere banner.
+**Nyt**
+- **Boldfysik: OpenSWOS** kan vælges i Indstillinger (standard er den nuværende). Lineær friktion som i originalen, retningsafhængig skudfart og højt skud ved at trække stikken bagud lige før skuddet.
+
 ## Sensible 0.28.0
 **Nyt**
 - **Lobbet aflevering over forsvaret:** hold SKYD nede og tryk AFLEVER. Bolden letter og lander ved medspilleren. Computeren lober også selv, når en modstander står i vejen.
