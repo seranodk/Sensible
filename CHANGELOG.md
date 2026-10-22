@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.35.1
+**Ændret**
+- **Når en målmand holder bolden:** modstanderens spillere løber ikke længere hen og stiller sig foran ham. De trækker tilbage til mindst ca. 340 px fra hans mål (dit hold) og ca. 480 px (computerens hold, så de løber lidt længere tilbage, når din målmand har bolden).
+- **Chip-skud** i Gameplay: OpenSWOS er fjernet (løft over forsvarer og lidt højde på meget lange skud er uændret).
+
 ## Sensible 0.35.0
 **Ændret (kun Gameplay: OpenSWOS)**
 - **Skuddets højde vælges af situationen** i stedet for en knap: lavt som standard, højere over en forsvarer, der står i vejen, og som chip, hvis målmanden står langt ude. Meget lange skud får lidt højde. Højt skud via PASS-knappen er fjernet, så knappen kun afleverer. På tastatur/controller kan retningen stadig trækkes bagud lige før skuddet.
