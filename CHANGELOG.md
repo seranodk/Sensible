@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.27.1
+**Ændret**
+- Skud kan flyve lidt højere (mellem de to forrige versioner), og målmandshandskerne er lidt mindre.
+
 ## Sensible 0.27.0
 **Ændret**
 - **Målene er 10 % højere og bredere** (net, stolper og overligger følger med).
