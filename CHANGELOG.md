@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.62
+- Intro: tryk/klik springer introen over, og kampen står klar ved kickoff (trykket sender ikke bolden afsted).
+- Pass: er en modspiller imellem, løftes afleveringen over ham og lander lidt foran medspilleren (ikke på egen banehalvdel tæt ved eget mål). Ellers stadig langs jorden. Lidt bredere sigtekegle (ca. 10 % mere hjælp).
+- Målmand: afvist bold får højst den fart, den kom med.
+- Computeren skyder bedre, når den kommer alene mod målet (flere skud mod hjørnet væk fra målmanden).
+
 ## Sensible 0.60
 - Intro: tryk på en tast, klik eller berør skærmen, så starter kampen med det samme.
 
