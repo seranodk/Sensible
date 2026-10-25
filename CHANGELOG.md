@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.68
+- Landsholdsvælgeren er ryddet op: kun farve og landenavn med mindre tekst, delt på to sider (A–L og M–Å).
+- Spillerlister (navne og numre) for de sidste 31 landshold, hentet fra Wikipedias aktuelle landsholdstrupper. Hvor kilden ikke har trøjenumre (fx Aserbajdsjan, Belarus, Cypern, Israel, Kasakhstan, Liechtenstein, Malta, Nordirland, Irland, San Marino, Costa Rica) er numrene tildelt efter position. Rumæniens angribere er ikke fuldt kildebelagt.
+- Ved mål vises nu spillerens fulde navn (fornavn + efternavn) for de landshold, der har fulde navne. Klubspillere og de 43 tidligere landshold har stadig kun efternavn.
+
 ## Sensible 0.67
 - Nyt: LANDSHOLD i turneringsvalget (74 hold): 53 europæiske landshold (UEFA, uden Rusland) plus de 5 bedste fra Nordamerika (USA, Mexico, Canada, Panama, Costa Rica), Sydamerika (Argentina, Brasilien, Colombia, Uruguay, Ecuador), Afrika (Marokko, Senegal, Egypten, Nigeria, Elfenbenskysten) og Asien (Japan, Sydkorea, Iran, Australien, Saudi-Arabien). Alle har hjemme- og udetrøje. Landsholdene indgår også i venskabskampe.
 - Bedre trøjevalg: spillet vælger nu den kombination af hjemme/ude/tredje-sæt for begge hold, der giver størst forskel (hjemmeholdet kan spille i udetrøje, hvis det hjælper). Testet på alle 5.402 landsholdsparringer og 27.390 klubparringer uden nogen for ens trøjer.
