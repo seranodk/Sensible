@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.37.1
+**Ændret**
+- **Færre utilsigtede lange afleveringer:** almindelige afleveringer vælger nu oftere en nærmere medspiller (grænsen er sænket til ca. 400-420 px, og afstand tæller tungere end vinkel). Det gælder både computeren og dig.
+- **Afleveringsstyrke i OpenSWOS:** farten er begrænset, så bolden ikke ruller langt forbi modtageren, hvis han ikke når den.
+- **Computerens lange lobbolde** forekommer halvt så ofte og kun over ca. 200 px.
+
 ## Sensible 0.37
 **Ændret**
 - **Bredere bane:** 1000 i stedet for 800. Straffesparksfelt (400 x 200), målfelt, midtercirkel og straffesparksbue er ca. 25 % større, og målet er ca. 25 % bredere (ca. 186).
