@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.41
+- Første gangs skud: løber man ind i bolden i feltet med skyd-knappen, hjælper spillet med at sigte mod mål (størst chance tæt på mål, virker også lige uden for feltet). Ingen magnet mod bolden.
+- Skud kommer højere op i luften; ca. 20 % af skud rammer overligger eller går over.
+- Hjørnespark: sigtekornet låser på en medspiller i nærheden.
+
 ## Sensible 0.40
 **Ændret**
 - **Kamera ved hjørnespark:** kameraet viser nu feltet og området foran det i stedet for hjørnet, og følger sigtekornet blødt, så du kan se, hvor du sigter hen.
