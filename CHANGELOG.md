@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.60
+- Intro: tryk på en tast, klik eller berør skærmen, så starter kampen med det samme.
+
 ## Sensible 0.59
 - Skru: samme respons i starten, men ca. 21 % mindre samlet skru (svagere sidst i skruetiden).
 
