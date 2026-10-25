@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.69
+- Spillerlister for 39 af de 43 ældre landshold er erstattet med fulde navne (og trøjenumre, hvor kilden har dem) fra Wikipedias aktuelle landsholdstrupper. Grækenland, USA, Colombia og Australien kunne ikke hentes fra kilden og har stadig de gamle efternavne.
+- Computerens afleveringer har nu en farvegrænse (maks ca. 9, lavere på korte afstande) og mindre tilfældig fejl på korte afleveringer, så de ikke længere er skyhårde.
+- Efter målmandens udspark kan modstanderen ikke tage bolden i de første tredjedel af banen (kun egne spillere kan modtage den).
+
 ## Sensible 0.68
 - Landsholdsvælgeren er ryddet op: kun farve og landenavn med mindre tekst, delt på to sider (A–L og M–Å).
 - Spillerlister (navne og numre) for de sidste 31 landshold, hentet fra Wikipedias aktuelle landsholdstrupper. Hvor kilden ikke har trøjenumre (fx Aserbajdsjan, Belarus, Cypern, Israel, Kasakhstan, Liechtenstein, Malta, Nordirland, Irland, San Marino, Costa Rica) er numrene tildelt efter position. Rumæniens angribere er ikke fuldt kildebelagt.
