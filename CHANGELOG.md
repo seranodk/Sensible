@@ -2,6 +2,13 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.37
+**Ændret**
+- **Bredere bane:** 1000 i stedet for 800. Straffesparksfelt (400 x 200), målfelt, midtercirkel og straffesparksbue er ca. 25 % større, og målet er ca. 25 % bredere (ca. 186).
+- **Målmanden dykker længere og lettere ud til siden** (ca. 20 % længere rækkevidde), så målantallet er cirka som før.
+- **Introen:** grafikfejl ved den udzoomede stadionvisning rettet (kanterne uden for banen var ikke fyldt ud).
+- **Tid på dagen:** knappen viser nu bare "Aften" (uden "flodlys").
+
 ## Sensible 0.36
 **Ændret**
 - **Spillerne står mere spredt på banen**, som i Sensible Soccer: ca. 40 % mere dybde og 35 % mere bredde i formationen, større afstand mellem holdkammerater (ca. 105 px) og mindre klumpning omkring bolden.
