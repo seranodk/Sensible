@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.48
+- Skud med skru (løb skråt og peg ind mod mål) går ikke længere over målet; de ender i stedet nogle gange lidt højere oppe i målet.
+
 ## Sensible 0.47
 - Intro: baggrundsfeltet dækker nu alle spillernavne.
 
