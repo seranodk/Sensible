@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.47
+- Intro: baggrundsfeltet dækker nu alle spillernavne.
+
 ## Sensible 0.46
 - Intro: spillerlisten står i én kolonne med større skrift, og trøjen vises ud for holdnavnet.
 - Minikortet er fjernet.
