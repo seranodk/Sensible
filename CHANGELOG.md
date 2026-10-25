@@ -2,6 +2,13 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.40
+**Ændret**
+- **Kamera ved hjørnespark:** kameraet viser nu feltet og området foran det i stedet for hjørnet, og følger sigtekornet blødt, så du kan se, hvor du sigter hen.
+- **Hjørnespark, hovedstød:** rammer bolden tæt på en modstander (inden for ca. 16 px), er der større chance for, at forsvaret header den væk. Ellers har angriberen større chance for at komme først.
+- **Skru i den originale udgave** er nu præcis den samme som i OpenSWOS (kraftig i de første billedrammer og aftagende, låst retning, lidt løft på skud, svagere på afleveringer). Det virker nu også på bolde langs jorden.
+- **Aften:** bedre lys. Kraftigere lyskegler og lysglimt fra de fire lysmaster, varm lysgrad over midten, mørkere kanter og hjørner, glød omkring bolden, kamerablitz i tilskuerne og en let vignet.
+
 ## Sensible 0.39
 **Ændret**
 - **Hjørnespark mere realistisk:** angriberne står nu spredt i feltet (nær stolpe, fjern stolpe, straffesparksplet, bag pletten, kassekanten, en til kort hjørnespark og to bagved). Forsvarerne står på stolperne, dækker manden lidt mod mål og vogter det korte hjørne, og to-tre bliver oppe ved midten. Efter sparket løber kun de to nærmeste fra hvert hold mod bolden, resten bliver og kæmper om pladsen, så det ikke længere klumper i ét punkt.
