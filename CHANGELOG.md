@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.49
+- Lige skud går over eller rammer overliggeren ca. 10 % af gangene (før ca. 20 %). Skruede skud går kun meget sjældent marginalt over.
+
 ## Sensible 0.48
 - Skud med skru (løb skråt og peg ind mod mål) går ikke længere over målet; de ender i stedet nogle gange lidt højere oppe i målet.
 
