@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.43
+- Aften: ikke længere lysglød omkring bolden.
+- Overligger: bolden preller nu af efter, hvor og med hvilken retning den rammer (op/over, ned/ud), og sideretningen bevares.
+
 ## Sensible 0.42
 - Målmand (spiller): pas-knappen kaster bolden ud til en medspiller, skyd-knappen sparker langt mod midten (ca. +/- 15 % af banens længde).
 
