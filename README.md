@@ -2,7 +2,7 @@
 
 Et top-down fodboldspil i browseren, inspireret af Sensible Soccer / Sensible World of Soccer. Det er én HTML-fil uden afhængigheder og virker på computer og mobil (landskab anbefales).
 
-**Aktuel version: Sensible 0.35.1.** Ændringer pr. version står i [CHANGELOG.md](CHANGELOG.md).
+**Aktuel version: Sensible 0.36.** Ændringer pr. version står i [CHANGELOG.md](CHANGELOG.md).
 
 ## Spillet
 

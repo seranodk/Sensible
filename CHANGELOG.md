@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.36
+**Ændret**
+- **Spillerne står mere spredt på banen**, som i Sensible Soccer: ca. 40 % mere dybde og 35 % mere bredde i formationen, større afstand mellem holdkammerater (ca. 105 px) og mindre klumpning omkring bolden.
+
 ## Sensible 0.35.1
 **Ændret**
 - **Når en målmand holder bolden:** modstanderens spillere løber ikke længere hen og stiller sig foran ham. De trækker tilbage til mindst ca. 340 px fra hans mål (dit hold) og ca. 480 px (computerens hold, så de løber lidt længere tilbage, når din målmand har bolden).
