@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.51
+- Intro: holdene og spillerlisten sidder lidt længere nede.
+- Pauseknappen viser teksten PAUSE (samme placering).
+
 ## Sensible 0.50
 - Indstillinger: knappen til 1/2 spillere er fjernet (den findes i hovedmenuen).
 
