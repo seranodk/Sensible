@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.52
+- Hjørnespark: bolden kommer nu i hovedhøjde ved målet i stedet for at falde fladt ned, og preller et par gange, hvis ingen får fat i den. Mest hovedstød, en gang imellem et volley-førstegangsskud (lavere bold).
+
 ## Sensible 0.51
 - Intro: holdene og spillerlisten sidder lidt længere nede.
 - Pauseknappen viser teksten PAUSE (samme placering).
