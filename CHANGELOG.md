@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.39
+**Ændret**
+- **Hjørnespark mere realistisk:** angriberne står nu spredt i feltet (nær stolpe, fjern stolpe, straffesparksplet, bag pletten, kassekanten, en til kort hjørnespark og to bagved). Forsvarerne står på stolperne, dækker manden lidt mod mål og vogter det korte hjørne, og to-tre bliver oppe ved midten. Efter sparket løber kun de to nærmeste fra hvert hold mod bolden, resten bliver og kæmper om pladsen, så det ikke længere klumper i ét punkt.
+- **Tilbageløb efter mål:** de spillere, der ikke fejrer scoringen, går tilbage mod deres kickoff-plads med ca. 62 % fart i stedet for at blive teleporteret.
+- **Målmanden kaster:** når han holder bolden, kaster han nu bolden kort til en fri medspiller (70–300 px, uden modstander lige ved siden af). Som spiller trækker du retningen mod medspilleren og trykker. Computerens målmand gør det i ca. 6 ud af 10 tilfælde, når en medspiller er fri. Målspark er uændrede.
+
 ## Sensible 0.38
 **Ændret**
 - **OpenSWOS er nu standard** for både boldfysik og gameplay (kan stadig skiftes i Indstillinger).
