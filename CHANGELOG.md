@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.54
+- Skrå skud (fra siden af feltet) går sjældnere over målet: mindre chance for høje skud og en lavere maksimal højde jo mere skråt skuddet er.
+
 ## Sensible 0.53
 - Skud holder farten bedre helt til målet (mindre fartsvind i luften og mindre tab ved bounce).
 - Intro: hold og spillerliste sidder næsten centralt på skærmen.
