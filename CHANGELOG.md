@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.45
+- Intro: i stedet for opstilling vises nu holdene øverst (A vs B) med de 11 spillere (nummer og navn) under hvert hold, halvgennemsigtigt.
+
 ## Sensible 0.44
 - Intro: mens kameraet zoomer ind, vises de to hold (med dragtfarver), hjemme/ude og opstillingen.
 
