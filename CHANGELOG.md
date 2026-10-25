@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.65
+- Førstegangsskud hjælper nu med at placere skuddet væk fra målmanden (oftere mod den side, han ikke dækker), så skud lige på ham stadig kan reddes.
+- Den gule tekst (HOVED/VOLLEY) over spillerens hoved er fjernet.
+
 ## Sensible 0.64
 - Pass-magnet: bolden drejer nu glidende ind mod, hvor medspilleren vil være (med fartens retning), i stedet for at blive trukket/snurre rundt om ham. Ingen ekstra fart.
 
