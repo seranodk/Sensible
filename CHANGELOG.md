@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.58
+- Målmand: langsomme skud (typisk fra computeren) samles nu op i stedet for at blive skubbet til hjørne, og målmanden gør klar til udkast eller udspil.
+
 ## Sensible 0.57
 - Første gangs skud: når skyd er trykket eller buffer'et i skudzonen, rækker spilleren lidt længere (ca. 22 px mod 12,5) og skyder i stedet for at løbe forbi. Ingen magnet mod bolden.
 - Skruskud: ekstra begrænsning af højden, når spilleren holder retning ved skuddet, og når skruen sætter ind senere i skuddet.
