@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.44
+- Intro: mens kameraet zoomer ind, vises de to hold (med dragtfarver), hjemme/ude og opstillingen.
+
 ## Sensible 0.43
 - Aften: ikke længere lysglød omkring bolden.
 - Overligger: bolden preller nu af efter, hvor og med hvilken retning den rammer (op/over, ned/ud), og sideretningen bevares.
