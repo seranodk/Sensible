@@ -2,6 +2,15 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.38
+**Ændret**
+- **OpenSWOS er nu standard** for både boldfysik og gameplay (kan stadig skiftes i Indstillinger).
+- **Skru som i OpenSWOS:** kurven kommer nu hurtigt lige efter sparket (de første ca. 10 billedrammer er de stærkeste og aftager derefter), i stedet for en svag kurve over lang tid. Du kan stadig trække sidelæns i op til ca. en halv sekund efter sparket, og retningen låses, når du først har trukket sideværts. Skud får et lille løft, når du skruer. Afleveringer skruer svagere end skud.
+- **Skud er lidt højere som standard** i OpenSWOS-gameplay, mere med afstanden.
+- **Ingen utilsigtede ekstra lange bolde:** bolden mister fart, når den lander efter et løft, computerens lobbolde er meget sjældnere, og forsvarets hovedstødsrydninger går ikke helt så langt.
+- **Banden tager farten af:** bolden hopper meget mindre tilbage på banen, når den rammer reklamebanden.
+- **Græsset:** tydeligere klippestriber og en blød skygge fra tribunerne langs toppen og venstre side af banen (svagere om aftenen).
+
 ## Sensible 0.37.1
 **Ændret**
 - **Færre utilsigtede lange afleveringer:** almindelige afleveringer vælger nu oftere en nærmere medspiller (grænsen er sænket til ca. 400-420 px, og afstand tæller tungere end vinkel). Det gælder både computeren og dig.
