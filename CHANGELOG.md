@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.55
+- Skud fra egen banehalvdel sløver af igen. Fartbevarelsen gælder nu kun, når bolden er på modstanderens halvdel eller lige uden for feltet.
+
 ## Sensible 0.54
 - Skrå skud (fra siden af feltet) går sjældnere over målet: mindre chance for høje skud og en lavere maksimal højde jo mere skråt skuddet er.
 
