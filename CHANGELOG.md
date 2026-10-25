@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.63
+- Skud: sigter du indenfor målet, holder bolden din retning (før blev retningen ofte vilkårligt ændret). Sigter du lidt forbi, hjælper spillet og trækker den ind mod stolpen. Gælder også førstegangsskud.
+
 ## Sensible 0.62
 - Intro: tryk/klik springer introen over, og kampen står klar ved kickoff (trykket sender ikke bolden afsted).
 - Pass: er en modspiller imellem, løftes afleveringen over ham og lander lidt foran medspilleren (ikke på egen banehalvdel tæt ved eget mål). Ellers stadig langs jorden. Lidt bredere sigtekegle (ca. 10 % mere hjælp).
