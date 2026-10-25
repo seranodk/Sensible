@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.57
+- Første gangs skud: når skyd er trykket eller buffer'et i skudzonen, rækker spilleren lidt længere (ca. 22 px mod 12,5) og skyder i stedet for at løbe forbi. Ingen magnet mod bolden.
+- Skruskud: ekstra begrænsning af højden, når spilleren holder retning ved skuddet, og når skruen sætter ind senere i skuddet.
+
 ## Sensible 0.55
 - Skud fra egen banehalvdel sløver af igen. Fartbevarelsen gælder nu kun, når bolden er på modstanderens halvdel eller lige uden for feltet.
 
