@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.50
+- Indstillinger: knappen til 1/2 spillere er fjernet (den findes i hovedmenuen).
+
 ## Sensible 0.49
 - Lige skud går over eller rammer overliggeren ca. 10 % af gangene (før ca. 20 %). Skruede skud går kun meget sjældent marginalt over.
 
