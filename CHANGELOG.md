@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.53
+- Skud holder farten bedre helt til målet (mindre fartsvind i luften og mindre tab ved bounce).
+- Intro: hold og spillerliste sidder næsten centralt på skærmen.
+- Hurtig kamp: tilfældigt dag eller aften.
+
 ## Sensible 0.52
 - Hjørnespark: bolden kommer nu i hovedhøjde ved målet i stedet for at falde fladt ned, og preller et par gange, hvis ingen får fat i den. Mest hovedstød, en gang imellem et volley-førstegangsskud (lavere bold).
 
