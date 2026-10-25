@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.66
+- Intro: tryk/klik får introen til at glide hurtigere ind (ca. 4x fart) og lander naturligt i kickoff-opstilling i stedet for at springe.
+
 ## Sensible 0.65
 - Førstegangsskud hjælper nu med at placere skuddet væk fra målmanden (oftere mod den side, han ikke dækker), så skud lige på ham stadig kan reddes.
 - Den gule tekst (HOVED/VOLLEY) over spillerens hoved er fjernet.
