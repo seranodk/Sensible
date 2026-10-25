@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.64
+- Pass-magnet: bolden drejer nu glidende ind mod, hvor medspilleren vil være (med fartens retning), i stedet for at blive trukket/snurre rundt om ham. Ingen ekstra fart.
+
 ## Sensible 0.63
 - Skud: sigter du indenfor målet, holder bolden din retning (før blev retningen ofte vilkårligt ændret). Sigter du lidt forbi, hjælper spillet og trækker den ind mod stolpen. Gælder også førstegangsskud.
 
