@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.67
+- Nyt: LANDSHOLD i turneringsvalget (74 hold): 53 europæiske landshold (UEFA, uden Rusland) plus de 5 bedste fra Nordamerika (USA, Mexico, Canada, Panama, Costa Rica), Sydamerika (Argentina, Brasilien, Colombia, Uruguay, Ecuador), Afrika (Marokko, Senegal, Egypten, Nigeria, Elfenbenskysten) og Asien (Japan, Sydkorea, Iran, Australien, Saudi-Arabien). Alle har hjemme- og udetrøje. Landsholdene indgår også i venskabskampe.
+- Bedre trøjevalg: spillet vælger nu den kombination af hjemme/ude/tredje-sæt for begge hold, der giver størst forskel (hjemmeholdet kan spille i udetrøje, hvis det hjælper). Testet på alle 5.402 landsholdsparringer og 27.390 klubparringer uden nogen for ens trøjer.
+- Spillerlister (navne og numre) er indlagt for 43 af de 74 landshold; resten viser kun numre.
+
 ## Sensible 0.66
 - Intro: tryk/klik får introen til at glide hurtigere ind (ca. 4x fart) og lander naturligt i kickoff-opstilling i stedet for at springe.
 
