@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.59
+- Skru: samme respons i starten, men ca. 21 % mindre samlet skru (svagere sidst i skruetiden).
+
 ## Sensible 0.58
 - Målmand: langsomme skud (typisk fra computeren) samles nu op i stedet for at blive skubbet til hjørne, og målmanden gør klar til udkast eller udspil.
 
