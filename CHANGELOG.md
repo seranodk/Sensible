@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.71
+- Målmandens udspark: mere højde og kortere længde (lander omkring midten/lidt på egen halvdel).
+- Mobil: det flydende joystick fra Tennis (rund base, knop, analog styring med dødzone) erstatter den usynlige træk-styring.
+
 ## Sensible 0.70
 - Ny tastaturstyring for spiller 1: piletaster til retning, Shift til skud og minus-tasten (–) til aflevering. Gælder også i 2-spiller (spiller 2: WASD, G og H).
 
