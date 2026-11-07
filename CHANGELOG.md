@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.72
+- Responsiv styring (kan slås fra under Indstillinger → "Responsiv styring", og gemmes): længere input-buffer til pass/skud/tackling, ca. 330 ms, og større vindue til førstegangsskud.
+- Hurtigere acceleration, bremsning og vending for den spiller, man styrer; fri retning og analog fart med joystick.
+- Smartere spillerskift: modtageren af en aflevering overtages straks, skiftet ser på boldens forventede landingspunkt og foretrækker spilleren i stickretningen, med kort lås mod flimren. Modtageren løber let ind mod bolden, hvis man ikke styrer.
+- Tilbagerulning: slå "Responsiv styring" fra, eller brug git-tagget v0.71 (hele det gamle spil).
+
 ## Sensible 0.71
 - Målmandens udspark: mere højde og kortere længde (lander omkring midten/lidt på egen halvdel).
 - Mobil: det flydende joystick fra Tennis (rund base, knop, analog styring med dødzone) erstatter den usynlige træk-styring.
