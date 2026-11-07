@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.74
+- Dribling i små skub: bolden ligger længere foran ved fart, pulserer med skridtet og trækker lidt efter ved retningsskift (kurver).
+- Mindre dødtid: kortere pause før kickoff (70→42 billeder) og andre genstarter (50→30), kortere målfejring (200→150), og et tryk på SKYD/PASS springer resten af pausen eller fejringen over.
+- Alt under "Responsiv styring" og kan slås fra.
+
 ## Sensible 0.73
 - Kameraet er nu uafhængigt af billedfrekvensen (tidsbaseret udjævning). Før gik kameraet dobbelt så hurtigt på 120 Hz-skærme og hakkede ved ujævne frames.
 - Roligere kamera på bolden (blødere forudskud), så hurtige retningsskift ikke får kameraet til at svinge.
