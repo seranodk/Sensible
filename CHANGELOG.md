@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.75
+- Ny kategori RETRO med 10 legendariske hold før 2010: Arsenal 2003/04 (Invincibles), Man Utd 1998/99, Barcelona 2008/09, Milan 1991/92, Ajax 1994/95, Liverpool 2004/05, Danmark EM 1992, Brasilien 1970, Frankrig 1998 og Italien 2006.
+- Rigtige spillere med fulde navne og trøjenumre (fra Wikipedias sæson- og turneringssider, Milans numre er efter position fordi kilden mangler dem), trøjer (hjemme og ude) og statistik (slutplacering, V-U-T, mål, point) vist i holdvælgeren og i introen.
+- Retro er også med i venskabskampe.
+
 ## Sensible 0.74
 - Dribling i små skub: bolden ligger længere foran ved fart, pulserer med skridtet og trækker lidt efter ved retningsskift (kurver).
 - Mindre dødtid: kortere pause før kickoff (70→42 billeder) og andre genstarter (50→30), kortere målfejring (200→150), og et tryk på SKYD/PASS springer resten af pausen eller fejringen over.
