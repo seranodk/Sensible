@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.78
+- Navn over spilleren med bolden (begge hold), over den spiller man selv styrer (også som forsvarer) og over målmanden, når han redder eller har bolden.
+- Afleveringer skruer mindre og går mere direkte mod modtageren.
+- Knappen INDSTILLINGER er skjult under holdvælgeren.
+
 ## Sensible 0.77
 - Den nye holdliste (lille trøje + holdnavn på én linje) bruges nu alle steder, i to kolonner og med mere luft mellem holdene, så man ikke rammer forkert.
 - Retrohold har deres statistik på linjen under navnet (ét hold pr. linje).
