@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.76
+- Rettet: venskabskamp med retrohold kunne ikke startes, fordi retroholdene manglede i venskabskampens holdliste.
+- Venskabskamp: holdvælgeren er nu en enkel liste i stil med Sensible Soccer, med holdnavn på én linje og en lille trøje til venstre for navnet.
+
 ## Sensible 0.75
 - Ny kategori RETRO med 10 legendariske hold før 2010: Arsenal 2003/04 (Invincibles), Man Utd 1998/99, Barcelona 2008/09, Milan 1991/92, Ajax 1994/95, Liverpool 2004/05, Danmark EM 1992, Brasilien 1970, Frankrig 1998 og Italien 2006.
 - Rigtige spillere med fulde navne og trøjenumre (fra Wikipedias sæson- og turneringssider, Milans numre er efter position fordi kilden mangler dem), trøjer (hjemme og ude) og statistik (slutplacering, V-U-T, mål, point) vist i holdvælgeren og i introen.
