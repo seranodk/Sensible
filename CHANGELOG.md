@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.77
+- Den nye holdliste (lille trøje + holdnavn på én linje) bruges nu alle steder, i to kolonner og med mere luft mellem holdene, så man ikke rammer forkert.
+- Retrohold har deres statistik på linjen under navnet (ét hold pr. linje).
+- Knappen TILFÆLDIGE HOLD er skjult. Tilfældig kamp er funktionen HURTIG KAMP.
+
 ## Sensible 0.76
 - Rettet: venskabskamp med retrohold kunne ikke startes, fordi retroholdene manglede i venskabskampens holdliste.
 - Venskabskamp: holdvælgeren er nu en enkel liste i stil med Sensible Soccer, med holdnavn på én linje og en lille trøje til venstre for navnet.
