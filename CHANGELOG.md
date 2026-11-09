@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.79
+- Afleveringer sigter nu længere foran modtagerens løberetning, så bolden møder spilleren i løbet.
+- Når modstanderen har bolden, og man er mere end et par meter væk, giver pass-knappen et lille kort fartboost (ca. 17 % i under et kvart sekund, med kort pause). Tæt på tackler pass-knappen som før.
+
 ## Sensible 0.78
 - Navn over spilleren med bolden (begge hold), over den spiller man selv styrer (også som forsvarer) og over målmanden, når han redder eller har bolden.
 - Afleveringer skruer mindre og går mere direkte mod modtageren.
