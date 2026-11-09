@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.80
+- Skud er generelt ca. 10 % kraftigere (højere minimumskraft og topfart), også i knap-til-knap-styringen.
+- Mere skrue i starten af skuddet: de første billeder af flugten svinger kraftigere og aftager derefter, som i Sensible Soccer. Afleveringer er upåvirkede.
+
 ## Sensible 0.79
 - Afleveringer sigter nu længere foran modtagerens løberetning, så bolden møder spilleren i løbet.
 - Når modstanderen har bolden, og man er mere end et par meter væk, giver pass-knappen et lille kort fartboost (ca. 17 % i under et kvart sekund, med kort pause). Tæt på tackler pass-knappen som før.
