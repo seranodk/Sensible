@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.82
+- Afleveringer beholder fuld fart hen mod medspilleren. Kun hvis bolden slet ikke er på vej mod modtageren (går forbi eller væk), sløver den nu ned.
+
 ## Sensible 0.81
 - Afleveringer bøjer ikke længere skarpt ind mod modtageren på de sidste meter (styringen er reduceret til en fjerdedel).
 - Rammer bolden ikke modtageren, men går forbi, sløver den nu hurtigt ned i stedet for at skyde videre.
