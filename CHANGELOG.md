@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.88
+- Spillerskift uden bold er roligere: årsagen var, at en ældre vælger kørte oven i den nye og skiftede spiller uden spærring. Den er slået fra i responsiv styring, og når modstanderen har bolden, skal en anden spiller nu være markant tættere på (ca. 2 gange afstanden) og skift spærres i ca. 1,2 sekund. Målt i simulation: omkring 4 gange færre skift, mens samme modstander har bolden.
+
 ## Sensible 0.87
 - Hovedstød og volleys mod mål placeres nu tilfældigt over hele målbredden (med lille tendens til at undgå målmanden) i stedet for næsten altid venstre/midt/højre. Gælder både dig og computeren, især ved hjørnespark.
 
