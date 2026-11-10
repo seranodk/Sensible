@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.91
+- Skud er hurtigere: et skud, der slippes tidligt, får nu mindst ca. 60 % kraft (før 0 %), og fuld kraft nås efter ca. 20 billeder i stedet for 32. Kraftmåleren følger det nye forløb. Gælder skud, first-time og tryk-og-slip-skud (mindste kraft 60 % også langt fra mål).
+- Computerens hovedstød har ca. 10 % mere fart.
+
 ## Sensible 0.90
 - Afleverer man uden nogen i udsigt, mister bolden hurtigt fart og går død efter ca. 25 frames og ca. 90 px, i stedet for at rulle langt væk (før ca. 165 px og 56 frames).
 
