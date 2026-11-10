@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.84
+- Afleveringens sigtepunkt foran modtageren beregnes nu ud fra boldens fart og afstand og er begrænset, så den ikke længere ryger for langt foran eller ligger bagved.
+- Rammer en aflevering ikke spilleren, stopper den hurtigere (bremser fra ca. 130 px væk, kraftigst tæt på), så den ikke ruller langt væk.
+
 ## Sensible 0.83
 - Mere præcise afleveringer: mindre fejlspredning for både dig og computeren, og færre skæve afleveringer ved vinkler.
 - Skud får op til ca. 20 % mere fart, jo tættere man er på målet (størst inde i feltet). Gælder skud, first-time og computerens skud i feltet.
