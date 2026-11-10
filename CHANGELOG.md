@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.85
+- Runde stolper: bolden kan ikke længere flyve gennem stolpen. Den rammer en rund stolpe med bolden som kugle, så den afhængigt af hvor på stolpen den rammer går ind i mål, ud i spil igen eller ud over baglinjen til målspark/hjørnespark, i en vinkel efter træffet.
+- Målmandsredninger er nemmere at se: kort stop i spillet (4 billeder), en gul ring og en tekst over målmanden (REDNING! / FANGET!). Når målmanden redder bolden ud til hjørnespark, vises REDDET UD – HJØRNESPARK.
+- Målmandens udspark lander stadig omkring midten af banen (testet: lander ca. 18 px bag midten).
+
 ## Sensible 0.84
 - Afleveringens sigtepunkt foran modtageren beregnes nu ud fra boldens fart og afstand og er begrænset, så den ikke længere ryger for langt foran eller ligger bagved.
 - Rammer en aflevering ikke spilleren, stopper den hurtigere (bremser fra ca. 130 px væk, kraftigst tæt på), så den ikke ruller langt væk.
