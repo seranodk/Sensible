@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.90
+- Afleverer man uden nogen i udsigt, mister bolden hurtigt fart og går død efter ca. 25 frames og ca. 90 px, i stedet for at rulle langt væk (før ca. 165 px og 56 frames).
+
 ## Sensible 0.89
 - Efter en kamp (træning, venskab, hurtig kamp m.fl.) går man nu ud til hovedmenuen i stedet for holdvælgeren. Resultatet står på hovedmenuen.
 - Computerens målmand sparker hurtigere ud: ventetiden efter en redning er cirka halveret (110 til 60 billeder, og ca. 0,28 i stedet for 0,6 af tiden ellers), og han går hurtigere på plads.
