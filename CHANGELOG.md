@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.86
+- Fjernet: tekster (REDNING!/FANGET!/HJØRNESPARK) og stop i spillet ved målmandsredninger.
+- Ny målmandsanimation: ved en redning rækker armene og de store handsker ud mod den præcise placering, hvor bolden rammes (også i højden), og der kommer en lille gnist ved træffet. Virker både stående og i dyk.
+
 ## Sensible 0.85
 - Runde stolper: bolden kan ikke længere flyve gennem stolpen. Den rammer en rund stolpe med bolden som kugle, så den afhængigt af hvor på stolpen den rammer går ind i mål, ud i spil igen eller ud over baglinjen til målspark/hjørnespark, i en vinkel efter træffet.
 - Målmandsredninger er nemmere at se: kort stop i spillet (4 billeder), en gul ring og en tekst over målmanden (REDNING! / FANGET!). Når målmanden redder bolden ud til hjørnespark, vises REDDET UD – HJØRNESPARK.
