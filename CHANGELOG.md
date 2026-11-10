@@ -2,6 +2,13 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.83
+- Mere præcise afleveringer: mindre fejlspredning for både dig og computeren, og færre skæve afleveringer ved vinkler.
+- Skud får op til ca. 20 % mere fart, jo tættere man er på målet (størst inde i feltet). Gælder skud, first-time og computerens skud i feltet.
+- First-time: mere hjælp til at ramme mod målet (længere rækkevidde, højere sandsynlighed for at sigte mod målet) og længere tidsvindue.
+- First-time: har man trykket skyd lidt for tidligt, bliver trykket husket (op til ca. 1,5 sek.), mens bolden er på vej, så skuddet kommer, når man når bolden.
+- 10 nye retrohold: Real Madrid 2002, Inter 2010, Holland 1988, Tyskland 1990, Man City 2012, Juventus 1996, Bayern 2001, Chelsea 2005, Argentina 1986, Spanien 2010 (i alt 20).
+
 ## Sensible 0.82
 - Afleveringer beholder fuld fart hen mod medspilleren. Kun hvis bolden slet ikke er på vej mod modtageren (går forbi eller væk), sløver den nu ned.
 
