@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.89
+- Efter en kamp (træning, venskab, hurtig kamp m.fl.) går man nu ud til hovedmenuen i stedet for holdvælgeren. Resultatet står på hovedmenuen.
+- Computerens målmand sparker hurtigere ud: ventetiden efter en redning er cirka halveret (110 til 60 billeder, og ca. 0,28 i stedet for 0,6 af tiden ellers), og han går hurtigere på plads.
+- First-time på bolde, der ligger på jorden: større rækkevidde og sidevinkel, højere sandsynlighed for at ramme målet (op til 99 %) og lidt længere rækkevidde til bolden.
+
 ## Sensible 0.88
 - Spillerskift uden bold er roligere: årsagen var, at en ældre vælger kørte oven i den nye og skiftede spiller uden spærring. Den er slået fra i responsiv styring, og når modstanderen har bolden, skal en anden spiller nu være markant tættere på (ca. 2 gange afstanden) og skift spærres i ca. 1,2 sekund. Målt i simulation: omkring 4 gange færre skift, mens samme modstander har bolden.
 
