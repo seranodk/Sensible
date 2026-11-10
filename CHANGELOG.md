@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.87
+- Hovedstød og volleys mod mål placeres nu tilfældigt over hele målbredden (med lille tendens til at undgå målmanden) i stedet for næsten altid venstre/midt/højre. Gælder både dig og computeren, især ved hjørnespark.
+
 ## Sensible 0.86
 - Fjernet: tekster (REDNING!/FANGET!/HJØRNESPARK) og stop i spillet ved målmandsredninger.
 - Ny målmandsanimation: ved en redning rækker armene og de store handsker ud mod den præcise placering, hvor bolden rammes (også i højden), og der kommer en lille gnist ved træffet. Virker både stående og i dyk.
