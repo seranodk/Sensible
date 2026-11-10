@@ -2,6 +2,9 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.92
+- Bolden preller mindre hårdt af stolperne: mindre fjedring og ekstra tab af fart ved træf. Går den ind, er den stadig mål. Ryger den ud, ligger den nu ca. 60 % tættere på stolpen (testet: 86 mod 213 px ved fart 8, 149 mod 367 px ved fart 11).
+
 ## Sensible 0.91
 - Skud er hurtigere: et skud, der slippes tidligt, får nu mindst ca. 60 % kraft (før 0 %), og fuld kraft nås efter ca. 20 billeder i stedet for 32. Kraftmåleren følger det nye forløb. Gælder skud, first-time og tryk-og-slip-skud (mindste kraft 60 % også langt fra mål).
 - Computerens hovedstød har ca. 10 % mere fart.
