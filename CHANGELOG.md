@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.93
+- NY: SÆSON (erstatter TURNERING på hovedmenuen). Vælg liga (Premier League, La Liga, Bundesliga, Superligaen eller Retro) og hold, og spil en hel sæson ude og hjemme. De øvrige kampe i runden simuleres ud fra holdenes styrke. Tabel, kampprogram, trup og topscorerliste. Kampe kan også simuleres. Sæsonen gemmes i browseren, og efter sidste runde kan man starte en ny sæson.
+- NY: spillere med tal. Hver spiller har Fart, Skud, Aflevering, Forsvar og Udholdenhed (målmænd: Redning), som bruges i kampen: løbefart, skudpræcision, afleveringspræcision, tacklinger, træthed sidst i kampen og målmandens redninger. Tallene er beregnet ud fra holdets styrke og spillerens plads på banen, ikke fra rigtige spillerdata. Før var det eneste tal en skjult, tilfældig fart pr. kamp.
+- Udekampe i sæsonen spilles på modstanderens stadion.
+- Bemærk: der er ingen lavere rækker, så nedrykningszonen vises kun i tabellen.
+
 ## Sensible 0.92
 - Bolden preller mindre hårdt af stolperne: mindre fjedring og ekstra tab af fart ved træf. Går den ind, er den stadig mål. Ryger den ud, ligger den nu ca. 60 % tættere på stolpen (testet: 86 mod 213 px ved fart 8, 149 mod 367 px ved fart 11).
 
