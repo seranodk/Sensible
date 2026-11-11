@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.97
+- Fejlafleveringer triller ikke længere langt: når en aflevering er kommet ca. 30 px forbi det sted, modtageren stod, bremser den hårdt.
+- Skud fra egen banehalvdel (hvis man kommer til at ramme skyd-knappen): mindre kraft, lavere bue og ekstra bremsning på jorden, glidende fra ca. 600 px fra mål og fuldt fra ca. 800 px. Skud fra normal skudafstand er uændrede.
+
 ## Sensible 0.96
 - Skud har nu varieret højde: langs jorden, lavt, i mellemhøjde eller højt i målet (ca. 28/30/27/15 %), og enkelte over mål. Før var ca. 90 % af skuddene lave. Gælder både dig og computeren.
 - Målmanden parerer flere skud, der sidder tæt på ham: han reagerer altid på skud inden for ca. en armslængde og misser dem sjældnere.
