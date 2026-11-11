@@ -2,6 +2,13 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.99
+- Rettet: afleveringer kunne dø, før de nåede medspilleren. Bremsen fra 0.97 målte fra det sted, modtageren stod ved afleveringen, så en bold til en spiller i løb blev bremset, før han nåede den. Nu bremser en aflevering først, når den er ca. 45 px forbi modtageren, og ca. 150 px hvis modtageren løber efter den.
+- Afleveringens fart beregnes nu efter afstanden til sigtepunktet foran modtageren, så den ikke løber tør for fart på vej derhen.
+
+## Sensible 0.98
+- (Lavet i en anden session, fundet i spilfilen.) Efter en aflevering løber modtageren selv mod bolden i ca. et sekund, hvis man bliver ved med at holde afleveringsretningen. Bremsen på fejlafleveringer måles i forhold til modtageren.
+
 ## Sensible 0.97
 - Fejlafleveringer triller ikke længere langt: når en aflevering er kommet ca. 30 px forbi det sted, modtageren stod, bremser den hårdt.
 - Skud fra egen banehalvdel (hvis man kommer til at ramme skyd-knappen): mindre kraft, lavere bue og ekstra bremsning på jorden, glidende fra ca. 600 px fra mål og fuldt fra ca. 800 px. Skud fra normal skudafstand er uændrede.
