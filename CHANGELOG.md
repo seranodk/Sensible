@@ -2,6 +2,14 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.96
+- Skud har nu varieret højde: langs jorden, lavt, i mellemhøjde eller højt i målet (ca. 28/30/27/15 %), og enkelte over mål. Før var ca. 90 % af skuddene lave. Gælder både dig og computeren.
+- Målmanden parerer flere skud, der sidder tæt på ham: han reagerer altid på skud inden for ca. en armslængde og misser dem sjældnere.
+- Computerens forsvar lukker hurtigere ned, når du nærmer dig feltet: den nærmeste forsvarer presser i fuld fart, og nummer to stiller sig i skudlinjen.
+- Glidende tackling: sigter nu op til 30 grader mod boldholderen og har lidt længere rækkevidde. Frisparksrisikoen er bevaret.
+- Afleveringer: er der ingen i den retning, du peger, vælges nærmeste medspiller i en bredere vinkel (op til 95 grader til hver side). Kun hvis der slet ingen er, sparkes bolden blindt.
+- Ny: en tynd hvid ring under den medspiller, din aflevering vil gå til. Kan slås fra under Indstillinger ("Vis modtager").
+
 ## Sensible 0.95
 Fundet med en "menneske-bot", der spiller hele kampe gennem de samme knapper som en spiller (korte tryk, reaktionstid, tastatur og touch):
 - Fjernet: højt skud ved at trække retningen bagud lige før skuddet.
