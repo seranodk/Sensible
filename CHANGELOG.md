@@ -2,6 +2,14 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.95
+Fundet med en "menneske-bot", der spiller hele kampe gennem de samme knapper som en spiller (korte tryk, reaktionstid, tastatur og touch):
+- Fjernet: højt skud ved at trække retningen bagud lige før skuddet.
+- Rettet: first-time-skud var meget svagere end almindelige skud (fart 5-8 mod ca. 11). De har nu næsten samme fart.
+- Rettet: et skudtryk kunne gå tabt, hvis knappen blev sluppet i et billede, hvor spillet var optaget af noget andet. Spilleren stod så med bolden uden at skyde.
+- Afleveringer sparkes nu i samme øjeblik, man trykker, i stedet for først når knappen slippes.
+- Skudhjælp: nærved-skud går tættere forbi stolpen tæt på mål, lidt højere træfsikkerhed tæt på mål, og vender man ryggen til målet inde i feltet, sigtes der stadig mod målet.
+
 ## Sensible 0.94
 - Rettet: et kort tryk på skyd (under ca. 0,07 sek.) blev regnet som en aflevering. Uden modtager blev det til en svag bold, der døde efter ca. 75 px. Nu er skyd-knappen altid et skud i OpenSWOS-gameplay, også ved helt korte tryk.
 - Rettet: skud fulgte den trykkede retning helt bogstaveligt, så et tryk til siden eller skråt sendte bolden 45-90 grader forbi målet. Nu sigter skuddet mod målet i den side, man trykker mod, når man er i skudposition (skråt frem overalt, rent sidelæns i og omkring feltet). Rammer hjælpen ikke, går skuddet tæt forbi stolpen i stedet for langt ved siden af.
