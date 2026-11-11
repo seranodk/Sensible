@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.94
+- Rettet: et kort tryk på skyd (under ca. 0,07 sek.) blev regnet som en aflevering. Uden modtager blev det til en svag bold, der døde efter ca. 75 px. Nu er skyd-knappen altid et skud i OpenSWOS-gameplay, også ved helt korte tryk.
+- Rettet: skud fulgte den trykkede retning helt bogstaveligt, så et tryk til siden eller skråt sendte bolden 45-90 grader forbi målet. Nu sigter skuddet mod målet i den side, man trykker mod, når man er i skudposition (skråt frem overalt, rent sidelæns i og omkring feltet). Rammer hjælpen ikke, går skuddet tæt forbi stolpen i stedet for langt ved siden af.
+- Tilfældige "ballonskud" højt op i luften sker sjældnere (6 % mod 14 % før).
+
 ## Sensible 0.93
 - NY: SÆSON (erstatter TURNERING på hovedmenuen). Vælg liga (Premier League, La Liga, Bundesliga, Superligaen eller Retro) og hold, og spil en hel sæson ude og hjemme. De øvrige kampe i runden simuleres ud fra holdenes styrke. Tabel, kampprogram, trup og topscorerliste. Kampe kan også simuleres. Sæsonen gemmes i browseren, og efter sidste runde kan man starte en ny sæson.
 - NY: spillere med tal. Hver spiller har Fart, Skud, Aflevering, Forsvar og Udholdenhed (målmænd: Redning), som bruges i kampen: løbefart, skudpræcision, afleveringspræcision, tacklinger, træthed sidst i kampen og målmandens redninger. Tallene er beregnet ud fra holdets styrke og spillerens plads på banen, ikke fra rigtige spillerdata. Før var det eneste tal en skjult, tilfældig fart pr. kamp.
