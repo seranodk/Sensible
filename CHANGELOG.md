@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.100
+- Fejlafleveringer ruller kortere: de bremser hårdere, så snart de er forbi modtageren, og med det samme, hvis de passerer mere end ca. 40 px ved siden af ham. Testet: ca. 50-70 px forbi modtageren mod ca. 170-210 px før.
+- Målmanden samler afleveringer op i stedet for at parere dem til hjørnespark, og griber flere bløde bolde generelt. Hårde skud pareres som før.
+
 ## Sensible 0.99
 - Rettet: afleveringer kunne dø, før de nåede medspilleren. Bremsen fra 0.97 målte fra det sted, modtageren stod ved afleveringen, så en bold til en spiller i løb blev bremset, før han nåede den. Nu bremser en aflevering først, når den er ca. 45 px forbi modtageren, og ca. 150 px hvis modtageren løber efter den.
 - Afleveringens fart beregnes nu efter afstanden til sigtepunktet foran modtageren, så den ikke løber tør for fart på vej derhen.
