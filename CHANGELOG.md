@@ -2,6 +2,13 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.101
+- Frispark og straffe kan nu sigtes og skrues. Retningen flytter et sigtekorn i målet (side = bredde, op/ned = højde), og en gul prikket linje viser boldens forudsagte bane. PASS skifter skru (svag/kraftig, venstre/højre), så bolden kan bøjes uden om muren. Hold SKYD for kraft og slip; fuld kraft giver mere fejl i retning og højde. Frispark gælder inden for ca. 480 px fra mål, længere væk er det som før.
+- Muren stopper kun bolde lavere end ca. 17 i højde, så man kan komme over den ved at sigte højt. Røde mærker i muren viser, hvem der blokerer det valgte skud.
+- Ved straffe vælger målmanden nu en side at kaste sig mod (ca. 70 % af gangene), så midten ikke længere er et sikkert mål.
+- Det er ikke længere muligt at tackle den, der skal tage et frispark eller en straffe, mens han venter.
+- Frispark og straffe er kun testet i simulation, ikke spillet i hånden.
+
 ## Sensible 0.100
 - Fejlafleveringer ruller kortere: de bremser hårdere, så snart de er forbi modtageren, og med det samme, hvis de passerer mere end ca. 40 px ved siden af ham. Testet: ca. 50-70 px forbi modtageren mod ca. 170-210 px før.
 - Målmanden samler afleveringer op i stedet for at parere dem til hjørnespark, og griber flere bløde bolde generelt. Hårde skud pareres som før.
