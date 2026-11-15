@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.103
+- Første-gangs-skud har nu et timingvindue. Når en aflevering kommer imod din spiller, vises en ring ved fødderne, og den bliver grøn, når bolden er tæt nok på. Trykker du SKYD i det vindue (fra ca. 0,25 sekund før bolden når dig til lige efter), får du et perfekt første-gangs-skud: ca. 8 % hårdere, mere præcist sigte og målmanden reagerer lidt senere. Et grønt flash viser, at det lykkedes.
+- Skuddet bruger nu boldens fart og højde: en hård aflevering giver et hårdere skud, en blød et mere afdæmpet, en bold fra siden giver bedre sigtehjælp, og en bold i luften giver et højere skud.
+- Test (100 skud pr. situation): perfekte første-gangs-skud scorer ca. 26-32 %, almindelige skud ca. 20 %, og for tidlige eller for sene første-gangs-skud ca. 10-19 %.
+- Kun testet i simulation, ikke spillet i hånden.
+
 ## Sensible 0.102
 - Skudhøjden er lavet om. Skud rammer nu målet i højden 0-110 (100 = målets højde), fordelt som i en almindelig kamp: ca. 10 % langs jorden, 20 % lavt, 25-30 % i midten, 20-25 % højt og lidt i krydset. Længere skud sidder højere, og kraftige skud (tæt på mål) kan gå over mål. I testkampe sad 45 % af skuddene langs jorden før, nu 19 %, og scoringsprocenten er uændret (ca. 16 %).
 - Årsag fundet: når man holdt en retning ned, mens man skød, blev skuddet fladt (en gammel begrænsning, som skulle holde skruede skud nede). Den er fjernet. Første-gangs-skud var desuden altid lave og følger nu samme fordeling.
