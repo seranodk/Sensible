@@ -2,6 +2,11 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.102
+- Skudhøjden er lavet om. Skud rammer nu målet i højden 0-110 (100 = målets højde), fordelt som i en almindelig kamp: ca. 10 % langs jorden, 20 % lavt, 25-30 % i midten, 20-25 % højt og lidt i krydset. Længere skud sidder højere, og kraftige skud (tæt på mål) kan gå over mål. I testkampe sad 45 % af skuddene langs jorden før, nu 19 %, og scoringsprocenten er uændret (ca. 16 %).
+- Årsag fundet: når man holdt en retning ned, mens man skød, blev skuddet fladt (en gammel begrænsning, som skulle holde skruede skud nede). Den er fjernet. Første-gangs-skud var desuden altid lave og følger nu samme fordeling.
+- Spillerne accelererer lidt hurtigere og får et lille ryk i første skridt. Topfarten er uændret.
+
 ## Sensible 0.101
 - Frispark og straffe kan nu sigtes og skrues. Retningen flytter et sigtekorn i målet (side = bredde, op/ned = højde), og en gul prikket linje viser boldens forudsagte bane. PASS skifter skru (svag/kraftig, venstre/højre), så bolden kan bøjes uden om muren. Hold SKYD for kraft og slip; fuld kraft giver mere fejl i retning og højde. Frispark gælder inden for ca. 480 px fra mål, længere væk er det som før.
 - Muren stopper kun bolde lavere end ca. 17 i højde, så man kan komme over den ved at sigte højt. Røde mærker i muren viser, hvem der blokerer det valgte skud.
