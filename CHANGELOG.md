@@ -2,6 +2,10 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.106
+- Målmandens pareringer (afvisninger) flyver nu kun ca. 60-70 % så hurtigt væk som før, så bolden ikke længere skydes så langt væk. Gælder både pareringer på jorden og i luften.
+- Testet i simulation, ikke spillet i hånden.
+
 ## Sensible 0.105
 - Skru er ændret, så bolden ikke længere "flicker" frem og tilbage. Før blev hele skruet givet som ét ryk de første 10 billeder efter spark (op til ca. 7-9 grader pr. billede), og retningen blev låst af det første stikudslag. Nu er skruet glat aftertouch: stikket filtreres, så udslaget bygger op over få billeder (maks. ca. 1,5 grader pr. billede), små stikudslag under en dødzone ignoreres, og retningen låses, når den først er valgt, så et hurtigt frem-og-tilbage på stikket ikke vender bolden. Skruet virker de første ca. 24 billeder, derefter aftager det hurtigt. Diagonale stikudslag giver et mindre skru, lige op giver ingen.
 - Pasninger har samme glatte skru, bare svagere.
