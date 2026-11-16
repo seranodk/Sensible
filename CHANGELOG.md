@@ -2,6 +2,12 @@
 
 Versionsregel: `Sensible 0.x.x` – større rettelser/funktioner løfter første x, mindre rettelser løfter andet x.
 
+## Sensible 0.104
+- Vejr er nyt i indstillinger: Godt vejr (standard), Regn, Snevejr, Tåge eller Tilfældigt (vælges ved hver ny kamp, oftest godt vejr). Regn og sne vises som nedbør over banen, tåge som et slør. Vejret påvirker også spillet: i regn ruller bolden ca. 25 % længere, spillerne accelererer lidt langsommere, og målmanden griber lidt færre våde bolde. I sne er bolden tung (ruller ca. 23 % kortere), og spillerne er lidt langsommere og accelererer langsommere. Tåge er kun visuel.
+- Boldfysik, responsiv styring og gameplay er fjernet fra indstillinger og står fast på de nuværende standardværdier (OpenSWOS-fysik, responsiv styring og OpenSWOS-gameplay).
+- Første-gangs-ringen vises kun, når din spiller er i modstanderens sidste tredjedel.
+- Testet i simulation, ikke spillet i hånden.
+
 ## Sensible 0.103
 - Første-gangs-skud har nu et timingvindue. Når en aflevering kommer imod din spiller, vises en ring ved fødderne, og den bliver grøn, når bolden er tæt nok på. Trykker du SKYD i det vindue (fra ca. 0,25 sekund før bolden når dig til lige efter), får du et perfekt første-gangs-skud: ca. 8 % hårdere, mere præcist sigte og målmanden reagerer lidt senere. Et grønt flash viser, at det lykkedes.
 - Skuddet bruger nu boldens fart og højde: en hård aflevering giver et hårdere skud, en blød et mere afdæmpet, en bold fra siden giver bedre sigtehjælp, og en bold i luften giver et højere skud.
